@@ -160,21 +160,7 @@
                     "transactionDate": "11-12-2024",
                     "status": "Deposit",
                     "narration": "Aliquam quis turpis eget elit sodales scelerisque."
-                },
-                {
-                    "id": 3,
-                    "senderName": "Rebeka Weine",
-                    "transactionDate": "7-20-2023",
-                    "status": "Withdrawal",
-                    "narration": "Donec quis orci eget orci vehicula condimentum."
-                },
-                {
-                    "id": 4,
-                    "senderName": "Gabbie Treece",
-                    "transactionDate": "4-9-2023",
-                    "status": "Withdrawal",
-                    "narration": "Pellentesque at nulla."
-                }
+                },       
             ]
         }
     ]
